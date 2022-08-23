@@ -1,3 +1,7 @@
+// türkçe karakterleri tanıt, 
+// kelime listesini başka bir dosyadan buraya importla,
+// kelime listesini zenginleştir
+
 const word_el = document.getElementById('word')
 const popup = document.getElementById('popup-container')
 const popupred = document.getElementById('popup-container-red')
